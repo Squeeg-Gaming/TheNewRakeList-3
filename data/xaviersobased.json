@@ -8,5 +8,11 @@
     "percentToQualify": "100",
     "password": "Altjitter/Ludwig/93FPS",
     "records": [
+        {
+            "user": "AstroGuy",
+            "link": " https://www.youtube.com/watch?v=rIdnOBObBho",
+            "hz": "60",
+            "percent": 100
+        }
     ]
 }
