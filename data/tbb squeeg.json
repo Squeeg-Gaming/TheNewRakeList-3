@@ -1,0 +1,24 @@
+{
+    "id": 128735318,
+    "name": "The Big Black (Squeeg)",
+    "author": "Squeeg, SomeDudeV3",
+    "creators": [],
+    "verifier": "Squeeg",
+    "verification": "https://www.youtube.com/watch?v=RXER_376Uec",
+    "percentToQualify": "100",
+    "password": "Rake/CBF/No RT",
+    "records": [
+        {
+            "user": "Copsstartkissingmyhotmouth",
+            "link": "https://www.youtube.com/watch?v=0TnDL_6ASpc",
+            "percent": 100,
+            "hz": 240
+        },
+        {
+            "user": "G1rcy",
+            "link": "https://youtu.be/_tbU-M-ko70?si=4W8fCyM1l035NyHo",
+            "hz": 360,
+            "percent": 100
+        }
+    ]
+}

@@ -1,0 +1,18 @@
+{
+    "id": 132703420,
+    "name": "The Last Rake",
+    "author": "Squeeg",
+    "creators": ["Squeeg, AllOnRed777"],
+    "verifier": "Squeeg",
+    "verification": "https://www.youtube.com/watch?v=QmQGK7JTLTA",
+    "percentToQualify": "100",
+    "password": "Rake/CBF/No RT",
+    "records": [
+        {
+            "user": "G1rcy",
+            "link": "https://youtu.be/_tbU-M-ko70?si=4W8fCyM1l035NyHo",
+            "hz": 360,
+            "percent": 100
+        }
+    ]
+}
