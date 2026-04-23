@@ -50,9 +50,13 @@ img {
 }
 
 input,
+form,
 button {
     color: inherit;
+	border: none;
+    outline: none;
 }
+
 
 h1,
 h2,
