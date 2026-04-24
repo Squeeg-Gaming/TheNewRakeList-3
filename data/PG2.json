@@ -8,5 +8,11 @@
     "percentToQualify": 100,
     "password": "Manual Scroll/CBF",
     "records": [
+        {
+        "user": "Astroguy",
+            "link": "https://youtu.be/VYDdAdwoKJc?si=x51H5aBYGIJNT8XA",
+            "hz": 240,
+            "percent": 100
+    }
     ]
 }
