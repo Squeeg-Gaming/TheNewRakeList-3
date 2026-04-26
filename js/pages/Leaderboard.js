@@ -87,6 +87,17 @@ export default {
                                 </td>
                             </tr>
                         </table>
+                        <h2 v-if="this.list.flat().map((levle, i) => ({ name: levle?.name, index: i })).filter(idk => idk.name && ![...entry.verified, ...entry.completed].map(work => work.level).includes(idk.name)).length > 0">Uncompleted ({{this.list.flat().map((levle, i) => ({ name: levle?.name, index: i })).filter(idk => idk.name && ![...entry.verified, ...entry.completed].map(work => work.level).includes(idk.name)).length}})</h2>
+                        <table class="table">
+                            <tr v-for="score in this.list.flat().map((levle, i) => ({ name: levle?.name, index: i })).filter(idk => idk.name && ![...entry.verified, ...entry.completed].map(work => work.level).includes(idk.name))">
+                                <td class="rank">
+                                    <p>#{{ (score.index / 2) + 1 }}</p>
+                                </td>
+                                <td class="level">
+                                    <a class="type-label-lg" target="_blank" :href="score.link">{{ score.name }}</a>
+                                </td>
+                            </tr>
+                        </table>
                     </div>
                 </div>
             </div>
