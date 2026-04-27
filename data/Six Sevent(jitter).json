@@ -8,5 +8,11 @@
     "percentToQualify": 100,
     "password": "jitter/240",
     "records": [
+    },
+        {
+        "user": "shafikdabest",
+        "link": "https://discord.com/channels/1420111313220403444/1497652472938758154",
+            "hz": "60",
+            "percent": 100
     ]
 }
