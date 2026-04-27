@@ -45,7 +45,6 @@ export default {
                     <div class="player">
                         <h1>#{{ selected + 1 }} - {{ entry.user }}</h1>
                         <h3>{{ entry.total }} - Hardest: {{ [...entry.verified, ...entry.completed].reduce((min, current) =>current.rank < min.rank ? current : min).level }}</h3>
-                        <p> test {{ this.list.flat().map((levle, i) => ({ name: levle?.name, index: i })).filter(idk => idk.name && ![...entry.verified, ...entry.completed].map(work => work.level).includes(idk.name)) }}</p>
                         <h2 v-if="entry.verified.length > 0">Verified ({{ entry.verified.length}})</h2>
                         <table class="table">
                             <tr v-for="score in entry.verified">
