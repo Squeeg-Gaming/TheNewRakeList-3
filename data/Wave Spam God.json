@@ -55,6 +55,12 @@
             "link": "https://youtu.be/ttV96RgVk8I?si=_0Tu-8QT_wXmEnk5",
             "hz": 240,
             "percent": 100
-    }
+     },
+        {
+            "user": "Blackberry",
+            "link": "https://discord.com/channels/1420111313220403444/1460122686440345713",
+            "percent": 100,
+            "hz": "60"
+        }
 ]
 }
