@@ -8,5 +8,10 @@
     "percentToQualify": 100,
     "password": "Scroll Click/CBF/",
     "records": [
-]
+{
+            "user": "AstroGuy",
+            "link": "https://youtu.be/BcYIE22wOeg",
+            "percent": 100,
+            "hz": "60"
+    ]
 }
