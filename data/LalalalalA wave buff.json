@@ -8,5 +8,12 @@
     "percentToQualify": 100,
     "password": "Alterjitter/Ludwig/CBF",
     "records": [
+    
+        {
+            "user": "rogi",
+            "link": "https://discord.com/channels/1420111313220403444/1420112036443983882",
+            "hz": 240,
+            "percent": 100
+        }
     ]
 }
