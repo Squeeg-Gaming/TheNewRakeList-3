@@ -13,6 +13,13 @@
             "link": "https://youtu.be/VYDdAdwoKJc?si=x51H5aBYGIJNT8XA",
             "hz": 60,
             "percent": 100
-    }
+     },
+        {
+            "user": "antonn",
+            "link": "https://www.youtube.com/watch?v=le4EjC6prbE",
+            "hz": 240,
+            "percent": 100
+        }
+        }
     ]
 }
