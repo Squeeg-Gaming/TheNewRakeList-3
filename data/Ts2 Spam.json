@@ -63,10 +63,16 @@
             "percent": 100
         },
         {
-        "user": "Astroguy",
+        "user": "AstroGuy",
             "link": "https://youtu.be/ttV96RgVk8I?si=_0Tu-8QT_wXmEnk5",
             "hz": 240,
             "percent": 100
-    }
+    },
+        {
+        "user": "M11xU",
+            "link": "https://medal.tv/games/geometry-dash/clips/mB2tSSqa403h7i9-d?invite=cr-MSxvSmosNDA4ODg0NDIx&v=24",
+            "hz": 240,
+            "percent": 100
+        }
     ]
 }
