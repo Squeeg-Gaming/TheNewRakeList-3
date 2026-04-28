@@ -1,5 +1,5 @@
 {
-    "id": 0,
+    "id": 136559016,
     "name": "Outbreak Perfected",
     "author": "Squeeg",
     "creators": ["Squeeg, Hypersonic_Time"],
@@ -7,13 +7,7 @@
     "verification": "https://www.youtube.com/watch?v=7ewj_I-P5Pc",
     "percentToQualify": 90,
     "password": "Rake/CBF/No RT",
+    "description": "if canela was still around, we would have made this probably",
     "records": [
-    
-        {
-            "user": "G1rcy",
-            "link": "https://www.youtube.com/watch?v=0scKDR0n6aU&t=848s",
-            "hz": 240,
-            "percent": 100
-        }
     ]
 }
