@@ -8,5 +8,12 @@
     "percentToQualify": "100",
     "password": "Carter Tapping/CBF",
     "records": [
+    
+        {
+            "user": "shafikdabest",
+            "link": "https://www.youtube.com/watch?v=PTtWlGXIs8U",
+            "hz": 240,
+            "percent": 100
+        }
     ]
 }
