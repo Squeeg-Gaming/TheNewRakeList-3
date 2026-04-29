@@ -8,5 +8,12 @@
     "percentToQualify": "100",
     "password": "Jitter/CBF",
     "records": [
+    
+        {
+            "user": "AstroGuy",
+            "link": "https://youtu.be/sxxQTxDkWJk",
+            "hz": 240,
+            "percent": 100
+        }
     ]
 }
