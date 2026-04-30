@@ -1,11 +1,15 @@
-
-    "id": 107444203,
+{
+    "id": 116552592,
     "name": "Jade Corridor",
     "author": "babseed",
-    "creators": ["EMP"],
+    "creators": ["emp"],
     "verifier": "galbeni7",
-    "verification": "https://youtu.be/m_Fpq7l7bnY?si=oJcW_qTKTC8N-pbr",
-    "percentToQualify": 100,
-    "password": "Manual Scroll/CB",
-    "records": 
-        
+    "verification": "https://www.youtube.com/watch?v=ISTl28wKSXc",
+    "percentToQualify": "100",
+    "password": "46290",
+    "records": [
+        {
+            
+        }
+    ]
+}
