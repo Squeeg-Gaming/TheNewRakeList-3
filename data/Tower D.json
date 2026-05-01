@@ -13,6 +13,12 @@
             "link": "https://youtu.be/v0h3L6x1Xrw",
             "hz": 240,
             "percent": 100
-                }
+                  },
+        {
+            "user": "TheBridgerMC",
+            "link": "https://youtu.be/Vd0xcPkwfNk?si=m4w0dmM5XZk_YtQL",
+            "percent": 100,
+            "hz": 240
+        }
     ]
 }
