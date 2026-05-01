@@ -21,10 +21,16 @@
             "hz": "60"
                 },
         {
-        "user": "Astroguy",
+        "user": "AstroGuy",
             "link": "https://youtu.be/aa2H7fjZ0Zs?si=RoOtcdJjxolKeUjE",
             "hz": 240,
             "percent": 100
-    }
+            },
+        {
+        "user": "TheRealDat",
+            "link": "https://www.youtube.com/watch?v=JyBZbmvjjXw",
+            "hz": 240,
+            "percent": 100
+        }
     ]
 }
