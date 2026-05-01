@@ -20,6 +20,12 @@
             "link": "im to lazy to put the link",
             "hz": 240,
             "percent": 100
+          },
+        {
+            "user": "AngoPR",
+            "link": "https://www.youtube.com/watch?v=AxptNIFKULw&t=1s",
+            "percent": 100,
+            "hz": "360"
         }
     ]
 }
