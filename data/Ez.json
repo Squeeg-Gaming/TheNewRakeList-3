@@ -45,10 +45,16 @@
             "percent": 100
         },
         {
-        "user": "Astroguy",
+        "user": "AstroGuy",
             "link": "https://youtu.be/aa2H7fjZ0Zs?si=RoOtcdJjxolKeUjE",
             "hz": 60,
             "percent": 100
-    }
+    },
+        {
+        "user": "TheBridgerMC",
+            "link": "https://youtu.be/aa2H7fjZ0Zs?si=RoOtcdJjxolKeUjE",
+            "hz": 60,
+            "percent": 100
+        }
     ]
 }
