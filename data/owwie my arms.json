@@ -9,5 +9,12 @@
     "password": "Alternating/240FPS",
     "description": "ezezezezez *(verification video pinned in discord)",
     "records": [
+    
+        {
+            "user": "AstroGuy",
+            "link": "https://www.youtube.com/watch?v=jkZ1wSpPl5Y",
+            "hz": 240,
+            "percent": 100
+        }
     ]
 }
