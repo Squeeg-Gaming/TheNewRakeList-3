@@ -8,5 +8,12 @@
     "percentToQualify": 100,
     "password": "Singletap/Jitter/CBF",
     "records": [
+    
+        {
+            "user": "AstroGuy",
+            "link": "https://www.youtube.com/watch?v=jkZ1wSpPl5Y",
+            "hz": 240,
+            "percent": 100
+        }
     ]
 }
