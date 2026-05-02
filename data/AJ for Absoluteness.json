@@ -21,10 +21,16 @@
             "percent": 100
         },
         {
-        "user": "Astroguy",
+        "user": "AstroGuy",
             "link": "https://youtu.be/aa2H7fjZ0Zs?si=RoOtcdJjxolKeUjE",
             "hz": 240,
             "percent": 100
-    }
+     },
+        {
+        "user": "Coldified",
+            "link": "https://youtu.be/aa2H7fjZ0Zs?si=RoOtcdJjxolKeUjE",
+            "hz": 240,
+            "percent": 100
+        }
     ]
 }
