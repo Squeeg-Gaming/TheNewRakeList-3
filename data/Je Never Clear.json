@@ -8,6 +8,12 @@
     "percentToQualify": 100,
     "password": "Alterjitter/Ludwig/CBF",
     "records": [
+                {
+            "user": "LightningytGD",
+            "link": "https://www.youtube.com/watch?v=BA48bXxBQIc&t=14s",
+            "hz": 240,
+            "percent": 100
+        },
         {
             "user": "GMDMIRROR",
             "link": "https://discord.com/channels/1420111313220403444/1498568915750752326/1498568915750752326",
