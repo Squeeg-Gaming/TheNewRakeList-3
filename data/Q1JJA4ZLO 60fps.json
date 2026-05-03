@@ -8,5 +8,11 @@
     "percentToQualify": 100,
     "password": "Alternating/60FPS",
     "records": [
+                       {
+            "user": "Squeeg",
+            "link": "https://www.youtube.com/watch?v=Ofjz1YtUhsc",
+            "hz": 60,
+            "percent": 100
+        }
     ]
 }
