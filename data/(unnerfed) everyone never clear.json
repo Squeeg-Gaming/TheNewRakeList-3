@@ -8,5 +8,12 @@
     "percentToQualify": 100,
     "password": "Manual Scroll/90FPS",
     "records": [
+    
+        {
+            "user": "AstroGuy",
+            "link": "https://youtu.be/0NfsJav35tY",
+            "hz": 240,
+            "percent": 100
+        }
     ]
 }
