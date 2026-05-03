@@ -79,6 +79,12 @@
             "link": "https://www.youtube.com/watch?v=hhF3kKmXDvM",
             "hz": 240,
             "percent": 100
+        },
+                {
+            "user": "uyoita",
+            "link": "https://www.youtube.com/live/XM8hDOwRO5E?si=AT6FM_tf9c59Zr5X",
+            "hz": 240,
+            "percent": 100
         }
 ]
 }
