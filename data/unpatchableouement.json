@@ -31,6 +31,12 @@
             "link": "https://youtu.be/CK5M4amIFPo",
             "hz": 240,
             "percent": 100
+        },
+               {
+            "user": "Squeeg",
+            "link": "https://www.youtube.com/watch?v=Ofjz1YtUhsc",
+            "hz": 60,
+            "percent": 100
         }
     ]
 }
