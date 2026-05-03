@@ -1,17 +1,22 @@
 {
     "id": 94005583,
     "name": "efnx2",
-    "author": "meowpau",
-    "creators": [100],
+    "author": "AverageOnPc",
+    "creators": ["Cyclic, JoinMolten"],
     "verifier": "meow24",
-    "verification": "https://www.youtube.com/watch?v=qqjayVmFj_o&t=14s",
+    "verification": "https://www.youtube.com/watch?v=7g24HTpHD3A",
     "percentToQualify": 100,
     "password": "Alternating/CBF",
-    "records": [
-            
+    "records": [       
         {
             "user": "AstroGuy",
             "link": "https://www.youtube.com/watch?v=sbr2QPEFBKo",
+            "hz": 240,
+            "percent": 100
+        },
+        {
+            "user": "Sandwich",
+            "link": "https://medal.tv/games/geometry-dash/clips/mcM8x8s1SHwwK1rCz?invite=cr-MSxScWcsNDcyMzE5NTg3",
             "hz": 240,
             "percent": 100
         }
