@@ -92,6 +92,14 @@
             "link": "https://outplayed.tv/geometry-dash/7L2Lee",
             "hz": "300",
             "percent": 100
+        },
+        
+            {
+                "user": "AstroGuy",
+            "link": "https://youtu.be/V0Iw3vdV9is",
+            "hz": 240,
+            "percent": 100
         }
+        
     ]
 }
