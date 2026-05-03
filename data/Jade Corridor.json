@@ -39,7 +39,7 @@
             "percent": 100
         },      
         {
-            "user": "Frozix",
+            "user": "AstroGuy",
             "link": "https://www.youtube.com/clip/Ugkx1myRkyShG9pWuJQPercigFftsAZXsRIB",
             "hz": "CBF",
             "percent": 100
@@ -55,6 +55,12 @@
             "link": "https://www.youtube.com/watch?v=Fwx4LSG9zBM",
             "percent": 100,
             "hz": "CBF"
+        },      
+        {
+            "user": "Frozix",
+            "link": "https://www.youtube.com/clip/Ugkx1myRkyShG9pWuJQPercigFftsAZXsRIB",
+            "hz": "CBF",
+            "percent": 100
         }
     ]
 }
