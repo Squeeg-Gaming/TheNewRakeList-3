@@ -8,5 +8,11 @@
     "percentToQualify": "100",
     "password": "Alternating/CBF",
     "records": [
+        {
+            "user": "Squeeg",
+            "link": "https://www.youtube.com/watch?v=6VbUb3skusA",
+            "percent": 100,
+            "hz": "CBF"
+        }
     ]
 }
