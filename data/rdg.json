@@ -14,28 +14,33 @@
             "percent": 100,
             "hz": 60
         },
-                {
+        {
             "user": "ywuChaos",
             "link": "https://www.youtube.com/watch?v=c_4TBRlYZfI&feature=youtu.be",
             "percent": 100,
             "hz": 60
-        },
-        
+        },        
         {
             "user": "pixelfactorial",
             "link": "https://discord.com/channels/1268386437116465205/1268386862079283222/1350726350801211454",
             "percent": 100,
             "hz": 60
         },
-                        {
+        {
             "user": "loooookkk",
             "link": "https://www.youtube.com/watch?v=IV0IacuY3_s&t=182s",
             "percent": 100,
             "hz": 240
         },
-                               {
+        {
             "user": "JoeBTD",
             "link": "https://www.youtube.com/watch?v=P6E6nrGUKQ4&t=10s",
+            "percent": 100,
+            "hz": 60
+        },
+        {
+            "user": "Sandwich",
+            "link": "https://medal.tv/games/geometry-dash/clips/mE7tr7aKZCKY-bfI2?invite=cr-MSx6OWgsNDcyMzE5NTg3",
             "percent": 100,
             "hz": 60
         }
