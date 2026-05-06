@@ -13,7 +13,13 @@
         "link": "https://youtu.be/abUJv2nFhHk?si=FTFM_K0CpEbqeWHz",
         "hz": "https://youtu.be/abUJv2nFhHk?si=FTFM_K0CpEbqeWHz",
         "percent": 100
-        },
+       },
+        {
+            "user": "AstroGuy",
+            "link": "https://youtu.be/ioFULhcGl_M?is=RU_i4GZzJjyrY1IF",
+            "hz": 240,
+            "percent": 100
+                             },
         {
             "user": "Sandwich",
             "link": "https://youtu.be/WlrhfYZpXf0",
