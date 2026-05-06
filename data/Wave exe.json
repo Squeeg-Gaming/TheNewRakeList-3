@@ -1,0 +1,18 @@
+{
+    "id": 65389504,
+    "name": "Wave exe",
+    "author": "Mang0XDX",
+    "creators": ["Mang0XDX"],
+    "verifier": "mangosa",
+    "verification": "https://youtu.be/bszrIPEK1Zg",
+    "percentToQualify": "100",
+    "password": "Alternating/CBF",
+    "records": [
+        {
+            "user": "GMDMIRROR",
+            "link": "https://youtu.be/lvCMbPUYQ8Q",
+            "percent": 100,
+            "hz": "CBF"
+        }
+    ]
+}
