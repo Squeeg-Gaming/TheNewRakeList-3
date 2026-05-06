@@ -15,6 +15,16 @@
         "link": "https://www.youtube.com/@Gangsterdino716"
     },
     {
+        "role": "owner",
+        "name": "AngoPR",
+        "link": "www.youtube.com/@angoPR1t"
+    },
+    {
+        "role": "owner",
+        "name": "Carter Traywick",
+        "link": "https://www.twitch.tv/bobsterninja1234"
+    },
+    {
         "role": "admin",
         "name": "G1rcy",
         "link": "www.youtube.com/@G1rcy4764"
@@ -26,6 +36,11 @@
     },
     {
         "role": "admin",
+        "name": "AP-Marsfr",
+        "link": "https://en.wikipedia.org/wiki/Mars"
+    },
+    {
+        "role": "admin",
         "name": "Shafik",
         "link": "https://www.youtube.com/@Shafikdabestv1"
     },
@@ -33,11 +48,6 @@
         "role": "admin",
         "name": "Dan",
         "link": "https://www.youtube.com/channel/UC_uh6qZuEm0WEFe61X-IdDA"
-    },
-    {
-        "role": "admin",
-        "name": "AngoPR",
-        "link": "www.youtube.com/@angoPR1t"
     },
     {
         "role": "helper",
@@ -51,13 +61,13 @@
     },
     {
         "role": "helper",
-        "name": "Carter Traywick",
-        "link": "https://www.twitch.tv/bobsterninja1234"
+        "name": "Soli",
+        "link": "https://www.youtube.com/@Prometheus_Alt"
     },
     {
         "role": "helper",
-        "name": "Soli",
-        "link": "https://www.youtube.com/@Prometheus_Alt"
+        "name": "Keelhal",
+        "link": "https://scratch.mit.edu/users/Keelhal/"
     },
     {
         "role": "helper",
