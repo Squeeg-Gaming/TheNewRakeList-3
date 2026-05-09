@@ -3,17 +3,12 @@
     "name": "SpamOgg",
     "author": "TypicalTieran",
     "creators": [],
-    "verifier": "Sandwich",
+    "verifier": "AstroGuy",
     "verification": "https://youtu.be/gkeztfgFHvc",
     "percentToQualify": "100",
     "password": "Alternating/CBF",
     "records": [
    
-        {
-            "user": "AstroGuy",
-            "link": "https://youtu.be/ioFULhcGl_M?is=RU_i4GZzJjyrY1IF",
-            "hz": 240,
-            "percent": 100
-        }
+       
     ]
 }
