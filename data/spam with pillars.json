@@ -9,6 +9,12 @@
     "password": "Alternating/CBF",
     "records": [
     
-        
+          },
+       {
+        "user": "AstroGuy",
+        "link": "https://youtu.be/ttV96RgVk8I",
+        "hz": "240",
+        "percent": 100
+        }
     ]
 }
