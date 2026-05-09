@@ -93,11 +93,16 @@
             "hz": "300",
             "percent": 100
         },
-        
             {
                 "user": "AstroGuy",
             "link": "https://youtu.be/V0Iw3vdV9is",
-            "hz": 240,
+            "hz": 300,
+            "percent": 100
+        },
+                    {
+                "user": "G1rcy",
+            "link": "hhttps://www.youtube.com/watch?v=mJouLpU0vQM&t=562s",
+            "hz": 300,
             "percent": 100
         }
         
