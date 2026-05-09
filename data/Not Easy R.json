@@ -3,17 +3,12 @@
     "name": "Not Easy R",
     "author": "frzy42",
     "creators": ["frzy42"],
-    "verifier": "Sandwich",
+    "verifier": "TheBridgerMC",
     "verification": "https://youtu.be/jdl5GDPJ_zk",
     "percentToQualify": 100,
     "password": "Alternating/60FPS",
     "records": [
-        {
-            "user": "TheBridgerMC",
-            "link": "https://youtu.be/x2yn4IrqFnw?si=wrpZwxU8mLsOF6xX",
-            "hz": 240,
-            "percent": 100
-        },
+      
                        {
             "user": "Squeeg",
             "link": "https://www.youtube.com/watch?v=Ofjz1YtUhsc",
