@@ -8,5 +8,17 @@
     "percentToQualify": "100",
     "password": "Alternating/30FPS",
     "records": [
+       {
+            "user": "AstroGuy",
+            "link": "https://youtu.be/VYDdAdwoKJc",
+            "hz": 240,
+            "percent": 100
+       },
+           {
+            "user": "Itzrealmerk",
+            "link": "https://youtu.be/VYDdAdwoKJc",
+            "hz": 240,
+            "percent": 100
+       }
     ]
 }
