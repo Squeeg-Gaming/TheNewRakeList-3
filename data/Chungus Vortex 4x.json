@@ -9,5 +9,12 @@
     "password": "Alternating/60FPS",
     "description": "GG 193",
     "records": [
+        
+        {
+        "user": "Astroguy",
+            "link": "https://youtu.be/aa2H7fjZ0Zs?si=RoOtcdJjxolKeUjE",
+            "hz": 240,
+            "percent": 100
+        }
     ]
 }
