@@ -6,7 +6,7 @@
     "verifier": "Alex",
     "verification": "https://youtu.be/yoC0M1x9j54?si=uAWcDaVkqz-3UwN8",
     "percentToQualify": 100,
-    "password": "Alternating/Any fps",
+    "password": "Alternating/CBF",
     "records": [
         {
         "user": "Delgado_Yeet_404",
@@ -171,11 +171,17 @@
             "hz": "240",
             "percent": 100      
                                                         },               
-                                    {
+            {
             "user": "Pearperguy",
             "link": "https://youtu.be/-ELglXGlWvY",
             "hz": "240",
             "percent": 100       
-                                    }
+            },
+                    {
+            "user": "AxelVortex",
+            "link": "https://www.youtube.com/watch?v=uIuHLoZ7qCI",
+            "hz": "240",
+            "percent": 100       
+            }
     ]
 }
