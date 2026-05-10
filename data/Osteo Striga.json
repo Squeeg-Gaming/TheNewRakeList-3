@@ -8,5 +8,11 @@
     "percentToQualify": 100,
     "password": "Altjitter/Ludwig/Omnijitter/CBF",
     "records": [
+               {
+            "user": "GMDMIRROR",
+            "link": "https://www.youtube.com/watch?v=aRvoq4IWwYE&t=9s",
+            "hz": 60,
+            "percent": 100
+         }
     ]
 }
