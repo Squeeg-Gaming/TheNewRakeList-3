@@ -8,5 +8,11 @@
     "percentToQualify": 100,
     "password": "Lip Spam/60FPS",
     "records": [
+                                    {
+        "user": "AngoPR",
+        "link": "https://youtu.be/wRxQp5hiEBA?si=s0jldSJ53VJJXS9d",
+            "hz": "60",
+            "percent": 100
+        }  
     ]
 }
