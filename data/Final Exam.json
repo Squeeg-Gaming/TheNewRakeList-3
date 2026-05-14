@@ -8,5 +8,11 @@
     "percentToQualify": 100,
     "password": "Rake/CBF/No RT",
     "records": [
+                            {
+        "user": "AngoPR",
+        "link": "https://youtu.be/yTb3lWbKVDg?si=IbuYeejozQ9ZlDkq",
+            "hz": "CBF",
+            "percent": 100
+        }  
     ]
 }
