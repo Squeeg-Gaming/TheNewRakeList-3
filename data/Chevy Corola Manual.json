@@ -6,19 +6,13 @@
     "verifier": "Delgado_Yeet_404",
     "verification": "https://youtu.be/L8G_ioVQO5U",
     "percentToQualify": 100,
-    "password": "Manual Scroll/CBF",
+    "password": "Scroll Strumming/CBF",
     "records": [
         {
         "user": "Astroguy",
             "link": "https://youtu.be/VYDdAdwoKJc?si=x51H5aBYGIJNT8XA",
             "hz": 240,
             "percent": 100
-    },
-        {
-            "user": "shafikdabest",
-            "link": "https://www.youtube.com/watch?v=2mJEEtTEpuo",
-            "hz": 240,
-            "percent": 100
-        }
+    }
     ]
 }
