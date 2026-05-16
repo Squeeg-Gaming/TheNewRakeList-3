@@ -8,5 +8,12 @@
     "percentToQualify": "100",
     "password": "",
     "records": [
+   
+        {
+            "user": "AstroGuy",
+            "link": "https://www.youtube.com/watch?v=sbr2QPEFBKo",
+            "hz": 240,
+            "percent": 100
+        }
     ]
 }
