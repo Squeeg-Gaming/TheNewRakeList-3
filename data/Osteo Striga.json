@@ -11,8 +11,14 @@
                {
             "user": "GMDMIRROR",
             "link": "https://www.youtube.com/watch?v=aRvoq4IWwYE&t=9s",
-            "hz": 60,
+            "hz": 240,
             "percent": 100
-         }
+         },
+                                              {
+            "user": "Squeeg",
+            "link": "https://www.youtube.com/shorts/TCBeoQrwgrI",
+            "hz": 240,
+            "percent": 100
+        }
     ]
 }
