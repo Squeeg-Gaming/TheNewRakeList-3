@@ -3,10 +3,16 @@
     "name": "toxic waste",
     "author": "ywuChaos",
     "creators": ["DelgadoYeet404, SumdudeV3, canela, Liknod"],
-    "verifier": "Squeeg",
-    "verification": "https://youtu.be/LAiiMVTmLkU?si=KDKmk6cCww2-kFJi",
+    "verifier": "Liknod",
+    "verification": "https://www.youtube.com/watch?v=A0Bdwyka5ic",
     "percentToQualify": "100",
     "password": "Ludwig/Altjitter/CBF",
-    "records": [
+     "records": [
+        {
+        "user": "Squeeg",
+        "link": "https://www.youtube.com/watch?v=SHGoPHXfyco",
+        "hz": "CBF",
+        "percent": 100
+        }
     ]
 }
