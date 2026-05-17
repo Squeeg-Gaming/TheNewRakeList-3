@@ -8,5 +8,11 @@
     "percentToQualify": "100",
     "password": "Alternating/30FPS",
     "records": [
+                        {    
+            "user": "ShayPlaz",
+            "link": "https://www.youtube.com/watch?v=hJPQWyQpn3Q",
+            "hz": "30",
+            "percent": 100
+        }
     ]
 }
