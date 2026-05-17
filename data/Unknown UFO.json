@@ -25,6 +25,12 @@
             "link": "https://www.youtube.com/watch?v=BqakIzuQqvw",
             "hz": 240,
             "percent": 100
-        }
+        },
+                        {
+            "user": "Squeeg",
+      "link": "https://youtube.com/live/qsULRwDB7vU",
+      "hz": "CBF",
+      "percent": 100
+    }
     ]
 }
