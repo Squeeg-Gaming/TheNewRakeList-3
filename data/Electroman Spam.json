@@ -122,11 +122,23 @@
             "hz": "CBF",
             "percent": 100
                                                           },
-                                        {
+            {
             "user": "flopabobus",
             "link": "https://www.youtube.com/watch?v=uhJRaPks59g",
             "hz": "CBF",
             "percent": 100
-                                        }
+            },
+                    {
+            "user": "ZeorixGD",
+            "link": "https://discord.com/channels/1420111313220403444/1505576322020147302/1505576322020147302",
+            "hz": "CBF",
+            "percent": 100
+            },
+                            {
+            "user": "ZeorixGD",
+            "link": "https://discord.com/channels/1420111313220403444/1505576322020147302/1505576322020147302",
+            "hz": "CBF",
+            "percent": 100
+            }
     ]
 }
