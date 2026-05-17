@@ -8,5 +8,11 @@
     "percentToQualify": "100",
     "password": "alternating/60fps",
     "records": [
+        {
+            "user": "Delgado_yeet_404",
+            "link": "https://youtu.be/svf7iOavEeY",
+            "percent": 100,
+            "hz": 60
+        }
     ]
 }
