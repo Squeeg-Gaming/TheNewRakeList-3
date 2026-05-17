@@ -8,5 +8,11 @@
     "percentToQualify": 100,
     "password": "Altjitter/Ludwig/CBF",
     "records": [
+    {
+        "user": "AstroGuy",
+        "link": "https://youtu.be/2mJEEtTEpuo?si=rSIHuWlem1uOoPPa",
+            "hz": "240",
+            "percent": 100
+        }
     ]
 }
