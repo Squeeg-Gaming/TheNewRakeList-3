@@ -118,11 +118,11 @@ export default {
 					        <button class="btn" type="button" @click="applyFilters()">Filter!</button>
                         </div>
 					</form>
-                    <a class="nav__icon" href="https://discord.gg/d47pcnV7Fg">
+                    <a class="nav__icon" href="https://discord.gg/SnxN36y5Gc">
                         <img src="../assets/discord.svg" alt="Discord Logo" />
                     </a>
                     <p>
-                    	<a href="https://discord.com/invite/d47pcnV7Fg">
+                    	<a href="https://discord.gg/SnxN36y5Gc">
                         	join our discord please
                         </a>
                     </p>
@@ -138,6 +138,17 @@ export default {
 
                     <main style="display: flex; flex-direction: column; align-items: left; gap: 24px; text-align: left; overflow: hidden; overflow-y: auto; max-height: 300px; width: 700px; border: 3px solid var(--color-primary); border-radius: 5px;">
             			<div style="display: flex; flex-direction: column; align-items: left; gap: 24px; overflow: visible; margin-left: 10px; margin-top: 12px">
+                            <h2>5/17/26</h2>
+                            <p class="cl">- <clw>WINGs (Uncapped)</clw> has been placed at <clw>#59</clw></p>
+                            <p class="cl">- <clw>cherimoya but only t</clw> has been placed at <clw>#22</clw></p>
+                            <p class="cl">- <clw>the spam of all time</clw> has been placed at <clw>#23</clw></p>
+                            <p class="cl">- <clw>fresh cut jitter</clw> has been placed at <clw>#8</clw></p>
+                            <p class="cl">- <clw>fresh cut jitter</clw> has been placed at <clw>#8</clw></p>
+                            <p class="cl">- <clw>The Absolute Abyss Rebirth</clw> has been placed at <clw>#3</clw></p>
+                            <p class="cl">- <clw>Realism</clw> has been raised from <clw>#56</clw> to <clw>#51</clw>, above <clw>Reality</clw> and below <clw>Sonder</clw></p>
+                            <p class="cl">- <clw>not hard r jitter</clw> has been placed at <clw>#15</clw></p>
+                            <p class="cl">- <clw>VNY TUTORIAL</clw> has been placed at <clw>#2</clw></p>
+                            <p class="cl">- <clw>A New World</clw> has been placed at <clw>#1</clw></p>
                             <h2>3/29/26</h2>
                             <p class="cl">- <clw>Immortal</clw> has been placed at <clw>#2</clw></p>
                             <p class="cl">- <clw>Outbreak Perfected</clw> has been placed at <clw>#1</clw></p>
