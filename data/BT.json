@@ -26,11 +26,17 @@
       "hz": "CBF",
       "percent": 100
                      },
-                            {
+    {
             "user": "TheBridgerMC",
       "link": "https://youtu.be/-w4xpYLfHIs?si=OR11QmJGw_Rr22Th",
       "hz": "CBF",
       "percent": 100
-                            }
+    },
+            {
+            "user": "Squeeg",
+      "link": "https://www.youtube.com/shorts/AN2XTxGbGso",
+      "hz": "CBF",
+      "percent": 100
+    }
     ]
 }
