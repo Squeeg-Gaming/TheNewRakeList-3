@@ -45,18 +45,17 @@
             "percent": 100,
             "hz": 240
         },
-        {
-            "user": "shafikdabest",
-            "link": "https://youtu.be/j9QLHq18qJM?si=DJZH-zimjTTx-6-G",
-            "percent": 100,
-            "hz": "60"
-        
-        },
                 {
             "user": "Grape",
             "link": "https://medal.tv/games/geometry-dash/clips/mCGGtSIhWd0EuY-Nt?invite=cr-MSxrZEssMzk0OTY5MzM4&v=16",
             "percent": 100,
             "hz": "240"
-        } 
+        },
+        {
+            "user": "Delgado_yeet_404",
+            "link": "https://youtu.be/akFOELZVXKk",
+            "percent": 100,
+            "hz": 240
+        }
     ]
 }
