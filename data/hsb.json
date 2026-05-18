@@ -9,5 +9,11 @@
     "password": "jitter",
     "description": "ts level so tuff boiiiiiiiiiiii",
     "records": [
+     {
+            "user": "AstroGuy",
+            "link": "https://youtu.be/IqIJO10gHO8",
+            "percent": 100,
+            "hz": "60"
+        }
     ]
 }
