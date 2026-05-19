@@ -75,6 +75,12 @@
             "link": "https://www.youtube.com/watch?v=sbr2QPEFBKo",
             "percent": 100,
             "hz": 240
+                },
+        {
+            "user": "woahkryo",
+            "link": "https://www.youtube.com/watch?v=V1ptSivTwDw&t=12s",
+            "percent": 100,
+            "hz": 60
                 }
     ]
 }
