@@ -16,13 +16,18 @@
     },
     {
         "role": "owner",
-        "name": "AngoPR",
-        "link": "www.youtube.com/@angoPR1t"
+        "name": "Carter Traywick",
+        "link": "https://www.twitch.tv/bobsterninja1234"
     },
     {
         "role": "owner",
-        "name": "Carter Traywick",
-        "link": "https://www.twitch.tv/bobsterninja1234"
+        "name": "Cyber<3<3",
+        "link": "https://www.youtube.com/watch?v=SHGoPHXfyco"
+    },
+    {
+        "role": "owner",
+        "name": "AstroGuy",
+        "link": "https://www.youtube.com/@asterism09"
     },
     {
         "role": "admin",
@@ -31,8 +36,13 @@
     },
     {
         "role": "admin",
-        "name": "AstroGuy",
-        "link": "https://www.youtube.com/@asterism09"
+        "name": "woahkryo_",
+        "link": "https://www.youtube.com/watch?v=SHGoPHXfyco"
+    },
+    {
+        "role": "admin",
+        "name": "vny8",
+        "link": "https://www.youtube.com/@vnyy8"
     },
     {
         "role": "admin",
@@ -56,6 +66,11 @@
     },
     {
         "role": "helper",
+        "name": "ShayPlaz",
+        "link": "www.youtube.com/channel/UCJ5bFvT3tFWaM_LoJdlYKAw"
+    },
+    {
+        "role": "helper",
         "name": "Jacoblegged",
         "link": "https://www.youtube.com/@Jacoblegged/posts"
     },
@@ -63,6 +78,11 @@
         "role": "helper",
         "name": "Hypersonic_time",
         "link": "https://scratch.mit.edu/users/hypersonic_time/"
+    },
+    {
+        "role": "helper",
+        "name": "AngoPR",
+        "link": "www.youtube.com/@angoPR1t"
     },
     {
         "role": "helper",
