@@ -138,6 +138,11 @@ export default {
 
                     <main style="display: flex; flex-direction: column; align-items: left; gap: 24px; text-align: left; overflow: hidden; overflow-y: auto; max-height: 300px; width: 700px; border: 3px solid var(--color-primary); border-radius: 5px;">
             			<div style="display: flex; flex-direction: column; align-items: left; gap: 24px; overflow: visible; margin-left: 10px; margin-top: 12px">
+                            <h2>5/19/26</h2>
+                            <p class="cl">- <clw>Ballgoballing Chal</clw> has been placed at <clw>#37</clw></p>
+                            <p class="cl">- <clw>Goober Madness</clw> has been placed at <clw>#97</clw></p>
+                            <p class="cl">- <clw>Red Death</clw> has been placed at <clw>#7</clw></p>
+                            <p class="cl">- <clw>A New World</clw> has been placed at <clw>#1</clw></p>
                             <h2>3/29/26</h2>
                             <p class="cl">- <clw>Immortal</clw> has been placed at <clw>#2</clw></p>
                             <p class="cl">- <clw>Outbreak Perfected</clw> has been placed at <clw>#1</clw></p>
