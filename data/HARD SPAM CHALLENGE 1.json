@@ -37,6 +37,12 @@
             "link": "https://www.youtube.com/watch?v=X6TYZMbtJg4&t=604s",
             "percent": 100,
             "hz": 60
+                                   },
+        {
+            "user": "clairetrt",
+            "link": "https://www.youtube.com/watch?v=V1ptSivTwDw&t=12s",
+            "percent": 100,
+            "hz": 60
         }
     ]
 }
