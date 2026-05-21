@@ -8,5 +8,12 @@
     "percentToQualify": "100",
     "password": "Alternating/60FPS",
     "records": [
-    ]
+     
+        {
+            "user": "AstroGuy",
+            "link": "theres no video for this one but it was accepted on the chaos list so i think thats enough proof",
+            "hz": 240,
+            "percent": 100
+        }
+            ]
 }
