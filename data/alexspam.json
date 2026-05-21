@@ -236,6 +236,12 @@
             "link": "https://www.youtube.com/watch?v=TsuC_77nnSc",
             "hz": "240",
             "percent": 100
+                                                  },
+        {
+            "user": "clairetrt",
+            "link": "https://www.youtube.com/watch?v=V1ptSivTwDw&t=12s",
+            "percent": 100,
+            "hz": 60
                         }
     ]
 }
