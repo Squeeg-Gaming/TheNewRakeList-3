@@ -87,6 +87,12 @@
             "link": "https://www.youtube.com/watch?v=V1ptSivTwDw&t=12s",
             "percent": 100,
             "hz": 60
-        }
+        },
+                                              {    
+            "user": "BILLYBOBERTSONTHE3RD",
+            "link": "https://www.youtube.com/watch?v=TsuC_77nnSc",
+            "hz": "240",
+            "percent": 100
+                        }
     ]
 }
