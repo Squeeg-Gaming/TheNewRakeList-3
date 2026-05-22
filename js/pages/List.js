@@ -138,6 +138,13 @@ export default {
 
                     <main style="display: flex; flex-direction: column; align-items: left; gap: 24px; text-align: left; overflow: hidden; overflow-y: auto; max-height: 300px; width: 700px; border: 3px solid var(--color-primary); border-radius: 5px;">
             			<div style="display: flex; flex-direction: column; align-items: left; gap: 24px; overflow: visible; margin-left: 10px; margin-top: 12px">
+                            <h2>5/21/26</h2>
+                            <p class="cl">- <clw>Steves Lava Chicken Infinity</clw> has been placed at <clw>#324</clw></p>
+                            <p class="cl">- <clw>AltJitterForBridger</clw> has been placed at <clw>#16</clw></p>
+                            <p class="cl">- <clw>Vault of Glass</clw> has been placed at <clw>#171</clw></p>
+                            <p class="cl">- <clw>Shocker</clw> has been placed at <clw>#162</clw></p>
+                            <p class="cl">- <clw>Shocker</clw> has been placed at <clw>#162</clw></p>
+                            <p class="cl">- <clw>soundcloud workshop</clw> has been placed at <clw>#64</clw></p>
                             <h2>5/19/26</h2>
                             <p class="cl">- <clw>Ballgoballing Chal</clw> has been placed at <clw>#37</clw></p>
                             <p class="cl">- <clw>Goober Madness</clw> has been placed at <clw>#97</clw></p>
