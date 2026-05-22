@@ -50,6 +50,12 @@
             "link": "https://www.youtube.com/watch?v=NXMBoJ-Z8Z4",
             "hz": 360,
             "percent": 100
-        }
+        },
+                                  {
+            "user": "CyanZonw",
+            "link": "https://www.youtube.com/watch?v=E0ogH6s7IAM",
+            "hz": "CBF",
+            "percent": 100
+                }
     ]
 }
