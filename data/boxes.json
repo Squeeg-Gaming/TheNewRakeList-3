@@ -13,6 +13,12 @@
         "link": "https://discord.com/channels/1432043471094546587/1439402617670467754/1492806596743532674",
         "hz": "300",
         "percent": 100
-        }
+                                              },
+        {    
+            "user": "PowerGreen",
+            "link": "https://www.youtube.com/watch?v=Nj_lr5ADbyI",
+            "hz": "240",
+            "percent": 100
+      }
     ]
 }
