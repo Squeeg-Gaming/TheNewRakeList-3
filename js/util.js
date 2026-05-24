@@ -2,8 +2,13 @@
 export function getYoutubeIdFromUrl(url) {
     return url.match(
         /.*(?:youtu.be\/|v\/|u\/\w\/|embed\/|watch\?v=)([^#\&]*).*/,
-    )?.[1] ?? '';
+    )?.[ 1 ] ?? '';
 }
+
+export function getMedalIdFromUrl(url) {
+    return url.match(/medal\.tv\/(?:clip|clips|games\/[^\/]+\/clips)\/([^\/?#]+)/)?.[ 1 ] ?? '';
+}
+
 // ilovegoodies445
 // nah nvm
 export function getRandomInt(max) {
@@ -15,7 +20,7 @@ export function getScratchPFP(username) {
     b.then(hsdkjhwsfkjwh => { return hsdkjhwsfkjwh })
 }
 async function getAPI(username) {
-	    const res = await fetch(`https://cors.gays3xlol.workers.dev/https://api.scratch.mit.edu/users/${encodeURIComponent(username)}`);
+    const res = await fetch(`https://cors.gays3xlol.workers.dev/https://api.scratch.mit.edu/users/${encodeURIComponent(username)}`);
         const obj = await res.json();
         const objParsed = JSON.parse(JSON.stringify(obj));
         if (objParsed.profile) {
@@ -26,13 +31,13 @@ async function getAPI(username) {
     }
 export function getLevelThumbnail(levelPos, list) {
             if (list == undefined || levelPos == undefined) {
-            	return 0;
+                return 0;
             } else {
                 console.log("The List:");
                 console.log(list);
                 console.log("The Level Position:");
                 console.log(levelPos);
-                const currentLevel = list[levelPos][0];
+                const currentLevel = list[ levelPos ][ 0 ];
                 /* console.error(currentLevel);
                 console.log("The List:");
                 console.log(list);
@@ -48,31 +53,31 @@ export function getLevelThumbnail(levelPos, list) {
 }
 export function getLevelThumbnailR(levelPos, list) {
             if (list == undefined || levelPos == undefined) {
-            	return 0;
+                return 0;
             } else {
                 console.log("The List:");
                 console.log(list);
                 console.log("The Level Position:");
                 console.log(levelPos);
-                const currentLevel = list[levelPos];
+                const currentLevel = list[ levelPos ];
                 return setUpThumbnailStyle(currentLevel.name);
             }
 }
 function setUpThumbnailStyle(levelName) {
-    			if (levelName == "getting kicked out of train") {
+                if (levelName == "getting kicked out of train") {
                     return `background-image: linear-gradient(rgb(0 0 0 / 0.5), rgb(0 0 0 / 0.5)), url(https://www.amtrak.com/content/dam/projects/dotcom/english/public/images/heros/couple-cafe-window-view.jpg); background-size: cover; background-repeat: no-repeat; background-position: center;`
                 } else {
                 return `background-image: var(--level-button), url("${getThumbnailImage(levelName, "yea")}"); background-size: cover; background-repeat: no-repeat; background-position: center;`
-				}
+                }
             }
 export function getThumbnailImage(lvlName) {
     return `../assets/levels/${encodeURIComponent(lvlName)}.png`;
 }
 export function embed(video) {
-    	if(video.includes("medal.tv")) {
-            return video;
+        if(video.includes("medal.tv")) {
+            return `https://medal.tv/clip/${getMedalIdFromUrl(video)}`;
         } else {
-        	return `https://www.youtube.com/embed/${getYoutubeIdFromUrl(video)}?rel=0`;
+            return `https://www.youtube.com/embed/${getYoutubeIdFromUrl(video)}?rel=0`;
         }
 }
 export function mamaMia(swaggers) {
@@ -105,8 +110,8 @@ var incGDR = 0;
 export async function otherStats(list) {
     incGDR = 0;
     for (let i = 0; i < list.length; i++) {
-  		console.log(list[i].find(isGDR));
-	}
+        console.log(list[ i ].find(isGDR));
+    }
     var timeDifference;
     var j;
     j = new Date();
@@ -155,27 +160,32 @@ export function getSelectSelect(list) {
     } else {
         return selectedInt - 1;
     }
-	return selectedInt - 1;
+    return selectedInt - 1;
 }
 
 export function selectRandomLevel(levels) {
     console.log("They done clicked the egg button!!!");
-	let randomLevel = getRandomInt(levels.length)
-	return randomLevel;
+    let randomLevel = getRandomInt(levels.length)
+    return randomLevel;
 }
 
 export function getThumbnailFromId(id) {
+    if (id && id.includes("medal.tv")) {
+        const medalId = getMedalIdFromUrl(id);
+        if (medalId) return `https://medal.tv/clip/${medalId}`;
+    }
     return `https://img.youtube.com/vi/${id}/mqdefault.jpg`;
 }
+
 export function listLevelNameFilter() {
-	if (!document.getElementById("filterForLevelName") == null)
-		document.getElementById("filterForLevelName").addEventListener("keyup", () => {
+    if (!document.getElementById("filterForLevelName") == null)
+        document.getElementById("filterForLevelName").addEventListener("keyup", () => {
         console.log(`Name: ${document.getElementById("filterForLevelName").value}`);
     });
 }
 export function listPlayerFilter() {
-	if (!document.getElementById("filterForPlayerlName") == null)
-		document.getElementById("filterForPlayerName").addEventListener("keyup", () => {
+    if (!document.getElementById("filterForPlayerlName") == null)
+        document.getElementById("filterForPlayerName").addEventListener("keyup", () => {
         console.log(`Name: ${document.getElementById("filterForPlayerName").value}`);
     });
 }
@@ -190,9 +200,9 @@ export function shuffle(array) {
         currentIndex--;
 
         // And swap it with the current element.
-        [array[currentIndex], array[randomIndex]] = [
-            array[randomIndex],
-            array[currentIndex],
+        [ array[ currentIndex ], array[ randomIndex ] ] = [
+            array[ randomIndex ],
+            array[ currentIndex ],
         ];
     }
 
