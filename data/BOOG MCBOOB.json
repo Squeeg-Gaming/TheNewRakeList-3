@@ -8,8 +8,6 @@
     "percentToQualify": 100,
     "password": "Alternating/CBF",
     "records": [
-    
-        
             {
                 "user": "AstroGuy",
             "link": "https://youtu.be/V0Iw3vdV9is",
@@ -20,6 +18,12 @@
                 "user": "woahkryo",
             "link": "https://www.youtube.com/watch?v=X6TYZMbtJg4&t=604s",
             "hz": 60,
+            "percent": 100
+        },
+                        {    
+            "user": "수생----",
+            "link": "https://www.youtube.com/@Aquatic-SGD",
+            "hz": "240",
             "percent": 100
         }
     ]
