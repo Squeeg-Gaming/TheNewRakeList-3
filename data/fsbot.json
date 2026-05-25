@@ -18,13 +18,19 @@
         {
             "user": "shafikdabest",
             "link": "https://www.youtube.com/watch?v=BqakIzuQqvw",
-            "hz": 240,
+            "hz": 60,
             "percent": 100
          },
         {
             "user": "AstroGuy",
             "link": "https://www.youtube.com/watch?v=BqakIzuQqvw",
-            "hz": 240,
+            "hz": 60,
+            "percent": 100
+        },
+                                       {    
+            "user": "수생----",
+            "link": "https://www.youtube.com/@Aquatic-SGD",
+            "hz": "60",
             "percent": 100
         }
     ]
