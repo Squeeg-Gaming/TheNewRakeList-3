@@ -19,6 +19,12 @@
             "link": "https://www.youtube.com/watch?v=Ofjz1YtUhsc",
             "percent": 100,
             "hz": 60
+        },
+        {
+            "user": "ShayPlaz",
+            "link": "https://thenewrakelist.squeeg-squeeg.workers.dev/",
+            "percent": 100,
+            "hz": 60
         }
     ]
 }
