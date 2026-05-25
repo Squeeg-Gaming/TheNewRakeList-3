@@ -8,5 +8,18 @@
     "percentToQualify": "100",
     "password": "Botting/360FPS",
     "records": [
-    ]
+    {
+            "user": "MM9000",
+            "link": "https://youtu.be/krxcz1yjjJk?si=TtrQHEVCD971MaLU",
+            "percent": 100,
+            "hz": "60"
+    },
+        {
+            "user": "AstroGuy",
+            "link": "https://youtu.be/RyiTNGIWyXI",
+            "percent": 100,
+            "hz": "360"
+    
+    }
+        ]
 }
