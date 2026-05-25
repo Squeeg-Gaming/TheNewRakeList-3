@@ -13,6 +13,12 @@
             "link": "https://youtube.com/live/qsULRwDB7vU",
             "percent": 100,
             "hz": 240
-         }
+         },
+                {
+            "user": "ShayPlaz",
+            "link": "https://youtu.be/wRIC2w7Z4Ks?si=Efj0tZhTGs8_1ZUV",
+            "percent": 100,
+            "hz": 60
+        }
     ]
 }
