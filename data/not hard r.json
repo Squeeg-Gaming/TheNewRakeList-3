@@ -37,6 +37,12 @@
             "link": "https://thenewrakelist.squeeg-squeeg.workers.dev/",
             "percent": 100,
             "hz": 60
-        }
+          },
+                {
+            "user": "AstroGuy",
+            "link": "https://thenewrakelist.squeeg-squeeg.workers.dev/",
+            "percent": 100,
+            "hz": 60
+                }
     ]
 }
