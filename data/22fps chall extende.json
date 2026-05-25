@@ -18,7 +18,7 @@
         {
         "user": "AstroGuy",
         "link": "https://youtu.be/WtQ4Z58hRjA",
-        "hz": "CBF",
+        "hz": "22",
         "percent": 100
         },
         {
@@ -26,6 +26,12 @@
         "link": "https://youtu.be/yXz4lapyhDg",
         "hz": "22",
         "percent": 100
+        },
+        {    
+            "user": "수생----",
+            "link": "https://www.youtube.com/@Aquatic-SGD",
+            "hz": "22",
+            "percent": 100
         }
     ]
 }
