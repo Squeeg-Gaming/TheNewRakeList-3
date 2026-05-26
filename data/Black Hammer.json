@@ -19,6 +19,12 @@
         "link": "https://youtu.be/dFd8sUHOekc?si=R6v0-Yz0VNaaH1NS",
             "hz": "CBF",
             "percent": 100
-        }  
+        },
+                                                    {
+                "user": "AP-Marsfr",
+            "link": "https://www.youtube.com/watch?v=eUQZcXrciRA",
+            "hz": 240,
+            "percent": 100
+        }
     ]
 }
