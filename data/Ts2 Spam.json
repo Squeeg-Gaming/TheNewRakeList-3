@@ -134,6 +134,12 @@
             "link": "https://www.youtube.com/watch?v=zO3hFSjNl44",
             "hz": 60,
             "percent": 100
-                }
+               },
+                        {    
+            "user": "zod",
+            "link": "https://www.youtube.com/@Aquatic-SGD",
+            "hz": "240",
+            "percent": 100
+        }
     ]
 }
