@@ -176,6 +176,12 @@
             "link": "https://www.youtube.com/@Aquatic-SGD",
             "hz": "240",
             "percent": 100
-        }
+                          },
+        {    
+            "user": "capitanb0ber",
+            "link": "https://www.youtube.com/watch?v=Nj_lr5ADbyI",
+            "hz": "240",
+            "percent": 100
+                        }
     ]
 }
