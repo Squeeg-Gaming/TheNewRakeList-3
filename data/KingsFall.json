@@ -8,5 +8,10 @@
     "percentToQualify": 100,
     "password": "Rake/240/No RT",
     "records": [
+     {
+                "user": "Squeeg",
+            "link": "https://youtu.be/5WSj48v7pNw?si=0kvEtL_0ifNfEASd",
+            "hz": 240,
+            "percent": 100
     ]
 }
