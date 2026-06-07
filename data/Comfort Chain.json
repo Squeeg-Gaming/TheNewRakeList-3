@@ -3,16 +3,10 @@
     "name": "Comfort Chain",
     "author": "Squeeg",
     "creators": [],
-    "verifier": "Squeeg",
-    "verification": "https://www.youtube.com/watch?v=RiL9jis6xYQ",
+    "verifier": "AngoPR",
+    "verification": "https://youtu.be/ZOgblZzr_vw?si=k6F_v8IQHULbDNkV",
     "percentToQualify": "100",
     "password": "Omnijitter/Altjitter/CBF",
     "records": [
-              {
-            "user": "AngoPR",
-            "link": "https://youtu.be/ZOgblZzr_vw?si=k6F_v8IQHULbDNkV",
-            "hz": "CBF",
-            "percent": 100
-        }
     ]
 }
