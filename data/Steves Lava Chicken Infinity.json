@@ -3,17 +3,11 @@
     "name": "Steves Lava Chicken Infinity",
     "author": "Squeeg",
     "creators": ["Squeeg"],
-    "verifier": "Squeeg",
-    "verification": "https://www.youtube.com/watch?v=qsULRwDB7vU",
+    "verifier": "AstroGuy",
+    "verification": "https://www.youtube.com/watch?v=sbr2QPEFBKo",
     "percentToQualify": "100",
     "password": "Altjitter/Ludwig/CBF",
    "records": [
-        {
-            "user": "AstroGuy",
-            "link": "https://www.youtube.com/watch?v=sbr2QPEFBKo",
-            "hz": 240,
-            "percent": 100
-        },
             {
             "user": "shafikdabest",
             "link": "https://www.youtube.com/watch?v=sbr2QPEFBKo",
