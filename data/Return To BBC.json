@@ -3,17 +3,10 @@
     "name": "return to BBC",
     "author": "Squeeg",
     "creators": [],
-    "verifier": "Squeeg",
-    "verification": "https://www.youtube.com/watch?v=X-AqEfiK6Q4",
+    "verifier": "Radiant",
+    "verification": "https://youtu.be/XzD0V9PKxMg?si=SPHW3qt5g0549y0p",
     "percentToQualify": "100",
     "password": "Rake/CBF/No RT",
     "records": [
-
-                                                                       {
-                "user": "Radiant",
-            "link": "https://youtu.be/XzD0V9PKxMg?si=SPHW3qt5g0549y0p",
-            "hz": 60,
-            "percent": 100
-                                                                       }
                                                                            ]
 }
